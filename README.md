@@ -1,6 +1,6 @@
 # ALL THINGS ROBOTICS
 
-![Banner](HD wallpaper_ Cyberpunk_ edgerunners, lucy (edgerunners).jpg)
+![Banner](Cyberpunk.jpg)
 
 Hey everyone! 👋
 This repo is my personal collection of everything I’ve learned about Robotics.
