@@ -1,6 +1,8 @@
 # ALL THINGS ROBOTICS
 
-![Banner](Cyberpunk.jpg)
+<img src="Cyberpunk.jpg" alt="Caterpillar Bot" width="1000" height= "200" />
+
+---
 
 Hey everyone! 👋
 This repo is my personal collection of everything I’ve learned about Robotics.
