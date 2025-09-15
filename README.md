@@ -1,6 +1,6 @@
 # ALL THINGS ROBOTICS
 
-<img src="Cyberpunk.jpg" alt="Caterpillar Bot" width="1000" height= "200" />
+<img src="cyberpunk2.jpg" alt="Caterpillar Bot" width="1000" height= "300" />
 
 ---
 
