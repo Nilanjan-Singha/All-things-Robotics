@@ -9,6 +9,10 @@ Right now, I’m part of a small team that builds bots for college tech events l
 
 I’ll also cover the basics of electronics and components, because I was once a total beginner too  and understanding the basics is very crucial.
 
+---
+
 📚 Table of Contents
 - How to Make a Caterpillar Bot
 - (More coming soon — sensors, controllers, AI for bots, etc.)
+
+ 
