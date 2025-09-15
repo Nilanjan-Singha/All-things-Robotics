@@ -1,6 +1,8 @@
 # ALL THINGS ROBOTICS
 
-<img src="punk3.gif" alt="banner" width="1000" height= "300" />
+<p align="center">
+  <img src="punk3.gif" alt="banner"  />
+</p>
 
 ---
 
