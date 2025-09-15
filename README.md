@@ -18,7 +18,7 @@ I’ll also cover the basics of electronics and components, because I was once a
 ---
 
 📚 Table of Contents
-- How to Make a Caterpillar Bot
+- [How to Make a Caterpillar Bot](Caterpillar.md)
 - (More coming soon — sensors, controllers, AI for bots, etc.)
 
  
